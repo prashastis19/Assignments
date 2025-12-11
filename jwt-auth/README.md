@@ -4,7 +4,8 @@ This project implements a simple JWT-based authentication system in Node.js usin
 
 ## Setup
 
-1. Open the folder in VS Code.
+1. Open the folder in VS Code.(Either download the entire repo zip and extract it or Go to: https://download-directory.github.io/ and paste https://github.com/prashastis19/Assignments/tree/main/jwt-auth and click download zip.Once downloaded it can be opened in VS Code or any code editor)
+
 2. Install dependencies:
 
 ```bash(in Gitbash)
